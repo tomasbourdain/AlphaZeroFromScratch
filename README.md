@@ -13,8 +13,9 @@ To achieve this, we first defined the game rules and created a game environment 
 
 ## Model Architecture
 
-![modelArchitecture](https://github.com/tomasbourdain/AlphaZeroFromScratch/blob/main/assets/Model_Architecture.jpg =400x200)
+![modelArchitecture](https://github.com/tomasbourdain/AlphaZeroFromScratch/blob/main/assets/Model_Architecture.jpg)
 
+<img src="[https://camo.githubusercontent.com/...](https://github.com/tomasbourdain/AlphaZeroFromScratch/blob/main/assets/Model_Architecture.jpg)" width="200" height="400" />
 
 ### Resources:
 - Monte Carlo Tree Search (https://www.cs.swarthmore.edu/~meeden/cs63/s19/reading/mcts.html)
