@@ -11,7 +11,7 @@ To achieve this, we first defined the game rules and created a game environment 
 
 ## Model Architecture
 
-![modelArchitecture](https://raw.githubusercontent.com/tomasbourdain/AlphaZeroFromScratch/master/assets/Model_Architecture.jpeg)
+![modelArchitecture](https://github.com/tomasbourdain/AlphaZeroFromScratch/blob/main/assets/Model_Architecture.jpg)
 
 
 ### Resources:
