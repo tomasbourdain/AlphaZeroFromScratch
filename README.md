@@ -13,7 +13,7 @@ To achieve this, we first defined the game rules and created a game environment 
 
 ## Model Architecture
 
-![modelAcrchitecture](https://github.com/tomasbourdain/AlphaZeroFromScratch/blob/main/assets/Model_Architecture.jpg = =400x200)
+![modelArchitecture](https://github.com/tomasbourdain/AlphaZeroFromScratch/blob/main/assets/Model_Architecture.jpg =400x200)
 
 
 ### Resources:
