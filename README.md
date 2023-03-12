@@ -1,7 +1,7 @@
 # AlphaZeroFromScratch
 
-![tictactoe](https://raw.githubusercontent.com/tomasbourdain/AlphaZeroFromScratch/master/assets/tictactoe.gif)
-![connectfour](https://raw.githubusercontent.com/tomasbourdain/AlphaZeroFromScratch/master/assets/connectfour.gif)
+![tictactoe](https://raw.githubusercontent.com/foersterrobert/AlphaZero/master/assets/tictactoe.gif)
+![connectfour](https://raw.githubusercontent.com/foersterrobert/AlphaZero/master/assets/connectfour.gif)
 
 Implementation of AlphaZero for Tic-Tac-Toe and ConnectFour
 
