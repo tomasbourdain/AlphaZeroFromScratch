@@ -7,7 +7,6 @@ This project aims to create an intelligent game-playing agent using the AlphaZer
 To achieve this, we first defined the game rules and created a game environment that could simulate the games and keep track of their state. Then, we trained a deep neural network to predict the value of a game state and the probability of selecting each possible move. We used self-play to generate training data and update the neural network parameters, gradually improving the agent's play.
 
 ![tictactoe](https://raw.githubusercontent.com/foersterrobert/AlphaZero/master/assets/tictactoe.gif)
-
 ![connectfour](https://raw.githubusercontent.com/foersterrobert/AlphaZero/master/assets/connectfour.gif)
 
 
